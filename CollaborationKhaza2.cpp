@@ -17,5 +17,7 @@ int main()
     cout << "Apples" << endl;
     fun1(50, 2);
     fun2(100, 200);
+    fun2(500, 500);
+    return 0;
 }
 
