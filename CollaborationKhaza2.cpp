@@ -12,6 +12,7 @@ int main()
     cout << "Hello World!\n";
     cout << "Apples" << endl;
     cout << "grapes" << endl;
+    cout << "Dry fruits" << endl;
     fun1(50, 2);
 }
 
