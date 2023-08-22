@@ -11,6 +11,7 @@ int main()
 {
     cout << "Hello World!\n";
     cout << "Apples" << endl;
+    cout << "grapes" << endl;
     fun1(50, 2);
 }
 
