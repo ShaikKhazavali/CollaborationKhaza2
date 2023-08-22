@@ -7,10 +7,15 @@ void fun1(int x, int y)
 {
     cout << x * y << endl;
 }
+void fun2(int a, int b)
+{
+    cout << a + b << endl;
+}
 int main()
 {
     cout << "Hello World!\n";
     cout << "Apples" << endl;
     fun1(50, 2);
+    fun2(100, 200);
 }
 
