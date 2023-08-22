@@ -3,10 +3,14 @@
 
 #include <iostream>
 using namespace std;
-
+void fun1(int x, int y)
+{
+    cout << x * y << endl;
+}
 int main()
 {
     cout << "Hello World!\n";
     cout << "Apples" << endl;
+    fun1(50, 2);
 }
 
